@@ -1,4 +1,3 @@
-import React, { useState } from 'react'
 import OneTraining from './OneTraining';
 import { nanoid } from 'nanoid';
 
