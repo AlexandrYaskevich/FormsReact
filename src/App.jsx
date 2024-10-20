@@ -4,12 +4,7 @@ import Form from './components/Form'
 import './App.css';
 
 export default function App() {
-  const options = {
-    year: 'numeric',
-    month: 'numeric',
-    day: 'numeric',
-    timezone: 'Ru'
-};
+
 
   const [form, setForm] = useState({
     date: "",

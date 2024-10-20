@@ -1,4 +1,5 @@
 import OneTraining from './OneTraining';
+import PropTypes from 'prop-types';
 import { nanoid } from 'nanoid';
 
 export default function Form({form, setForm, setTrainings}) {

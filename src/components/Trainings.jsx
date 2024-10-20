@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 
 export default function Trainings({trainigs, setTrainings}) {
     const edit = '🖉'
